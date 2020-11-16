@@ -1,4 +1,4 @@
-Análise de dados sobre datasets COVID
+Análise de dados - Propagação e mortes da Covid-19 no brasil e no mundo
 
 Integrantes: 
 
